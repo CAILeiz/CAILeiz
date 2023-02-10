@@ -8,7 +8,7 @@
 ```ts
 const It'sMe = {
   name: ryanzhou,
-  age: 24.6,
+  age: 25.5,
   height: 'unknown',
   weight: '65kg'
 }
